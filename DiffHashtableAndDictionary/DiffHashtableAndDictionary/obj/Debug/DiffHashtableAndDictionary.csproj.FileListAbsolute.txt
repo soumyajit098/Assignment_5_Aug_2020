@@ -1,0 +1,7 @@
+D:\Front end\DotNetConsoleApps\DiffHashtableAndDictionary\DiffHashtableAndDictionary\bin\Debug\DiffHashtableAndDictionary.exe.config
+D:\Front end\DotNetConsoleApps\DiffHashtableAndDictionary\DiffHashtableAndDictionary\bin\Debug\DiffHashtableAndDictionary.exe
+D:\Front end\DotNetConsoleApps\DiffHashtableAndDictionary\DiffHashtableAndDictionary\bin\Debug\DiffHashtableAndDictionary.pdb
+D:\Front end\DotNetConsoleApps\DiffHashtableAndDictionary\DiffHashtableAndDictionary\obj\Debug\DiffHashtableAndDictionary.csprojAssemblyReference.cache
+D:\Front end\DotNetConsoleApps\DiffHashtableAndDictionary\DiffHashtableAndDictionary\obj\Debug\DiffHashtableAndDictionary.csproj.CoreCompileInputs.cache
+D:\Front end\DotNetConsoleApps\DiffHashtableAndDictionary\DiffHashtableAndDictionary\obj\Debug\DiffHashtableAndDictionary.exe
+D:\Front end\DotNetConsoleApps\DiffHashtableAndDictionary\DiffHashtableAndDictionary\obj\Debug\DiffHashtableAndDictionary.pdb
